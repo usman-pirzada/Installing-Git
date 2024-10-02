@@ -1,0 +1,1 @@
+If you have downloaded any GUI (e.g., GitHub Desktop) to manage your repositories on GitHub and are also interested in managing Git using commands, then **download the official Git Bash/CLI from [here](https://git-scm.com/downloads)**.
