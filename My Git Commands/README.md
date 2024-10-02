@@ -1,4 +1,4 @@
-### Create Empty Branch
+### Creating Empty Branch
 ```cd MyCode``` #Navigate to Repository *MyCode*\
 ```git checkout --orphan test``` #Create Local Branch *test*\
 ```git rm -rf``` #Remove all files from this local branch\
