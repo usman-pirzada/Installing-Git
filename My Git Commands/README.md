@@ -1,4 +1,5 @@
 ### Creating Empty Branch
+REMEMBER! Creating empty branch by this method causes issues while merging it to main, as pull request not work as intended in this situation.\
 ```cd MyCode``` #Navigate to Repository *MyCode*\
 ```git checkout --orphan test``` #Create Local Branch *test*\
 ```git rm -rf``` #Remove all files from this local branch\
